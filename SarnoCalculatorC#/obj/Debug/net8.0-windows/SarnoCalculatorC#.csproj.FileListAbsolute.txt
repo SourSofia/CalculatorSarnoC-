@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\bin\Debug\net8.0-windows\SarnoCalculatorC#.exe
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\bin\Debug\net8.0-windows\SarnoCalculatorC#.deps.json
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\bin\Debug\net8.0-windows\SarnoCalculatorC#.runtimeconfig.json
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\bin\Debug\net8.0-windows\SarnoCalculatorC#.dll
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\bin\Debug\net8.0-windows\SarnoCalculatorC#.pdb
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC_.Form1.resources
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.AssemblyInfo.cs
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.dll
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\refint\SarnoCalculatorC#.dll
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.pdb
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\SarnoCalculatorC#.genruntimeconfig.cache
+C:\Users\USER\source\repos\SarnoCalculatorC#\SarnoCalculatorC#\obj\Debug\net8.0-windows\ref\SarnoCalculatorC#.dll
