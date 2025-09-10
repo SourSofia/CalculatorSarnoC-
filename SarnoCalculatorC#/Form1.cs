@@ -51,7 +51,7 @@ namespace SarnoCalculatorC_
                 }
 
                 textBox1.Text = result.ToString();
-                currentInput = ""; // reset input for next number
+                currentInput = "";
             }
         }
 
@@ -124,7 +124,7 @@ namespace SarnoCalculatorC_
         {
             if (operationPending && currentInput != "")
             {
-                Evaluate(); // evaluate before setting new operation
+                Evaluate();
             }
             else if (currentInput != "")
             {
@@ -198,7 +198,7 @@ namespace SarnoCalculatorC_
         private void button13_Click(object sender, EventArgs e) // =
         {
             Evaluate();
-            operation = ""; // reset so it doesn't chain infinitely after "="
+            operation = "";
             operationPending = false;
         }
 
@@ -217,3 +217,4 @@ namespace SarnoCalculatorC_
         }
     }
 }
+
